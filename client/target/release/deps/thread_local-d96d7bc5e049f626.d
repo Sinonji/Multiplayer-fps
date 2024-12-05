@@ -1,0 +1,10 @@
+C:\Users\Student01pc\Desktop\work\multiplayer-fps\client\target\release\deps\libthread_local-d96d7bc5e049f626.rmeta: C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\lib.rs C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\cached.rs C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\thread_id.rs C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\unreachable.rs
+
+C:\Users\Student01pc\Desktop\work\multiplayer-fps\client\target\release\deps\libthread_local-d96d7bc5e049f626.rlib: C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\lib.rs C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\cached.rs C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\thread_id.rs C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\unreachable.rs
+
+C:\Users\Student01pc\Desktop\work\multiplayer-fps\client\target\release\deps\thread_local-d96d7bc5e049f626.d: C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\lib.rs C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\cached.rs C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\thread_id.rs C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\unreachable.rs
+
+C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\lib.rs:
+C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\cached.rs:
+C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\thread_id.rs:
+C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\unreachable.rs:

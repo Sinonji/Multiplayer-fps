@@ -1,0 +1,16 @@
+C:\Users\Student01pc\Desktop\work\multiplayer-fps\server\target\release\deps\libcommon-adb26f2d9deb540e.rmeta: C:\Users\Student01pc\Desktop\work\multiplayer-fps\common\src\lib.rs C:\Users\Student01pc\Desktop\work\multiplayer-fps\common\src\defaults.rs C:\Users\Student01pc\Desktop\work\multiplayer-fps\common\src\ecs\mod.rs C:\Users\Student01pc\Desktop\work\multiplayer-fps\common\src\ecs\components.rs C:\Users\Student01pc\Desktop\work\multiplayer-fps\common\src\ecs\macros.rs C:\Users\Student01pc\Desktop\work\multiplayer-fps\common\src\ecs\system\mod.rs C:\Users\Student01pc\Desktop\work\multiplayer-fps\common\src\ecs\timer.rs C:\Users\Student01pc\Desktop\work\multiplayer-fps\common\src\map.rs C:\Users\Student01pc\Desktop\work\multiplayer-fps\common\src\gun.rs C:\Users\Student01pc\Desktop\work\multiplayer-fps\common\src\maze.rs
+
+C:\Users\Student01pc\Desktop\work\multiplayer-fps\server\target\release\deps\libcommon-adb26f2d9deb540e.rlib: C:\Users\Student01pc\Desktop\work\multiplayer-fps\common\src\lib.rs C:\Users\Student01pc\Desktop\work\multiplayer-fps\common\src\defaults.rs C:\Users\Student01pc\Desktop\work\multiplayer-fps\common\src\ecs\mod.rs C:\Users\Student01pc\Desktop\work\multiplayer-fps\common\src\ecs\components.rs C:\Users\Student01pc\Desktop\work\multiplayer-fps\common\src\ecs\macros.rs C:\Users\Student01pc\Desktop\work\multiplayer-fps\common\src\ecs\system\mod.rs C:\Users\Student01pc\Desktop\work\multiplayer-fps\common\src\ecs\timer.rs C:\Users\Student01pc\Desktop\work\multiplayer-fps\common\src\map.rs C:\Users\Student01pc\Desktop\work\multiplayer-fps\common\src\gun.rs C:\Users\Student01pc\Desktop\work\multiplayer-fps\common\src\maze.rs
+
+C:\Users\Student01pc\Desktop\work\multiplayer-fps\server\target\release\deps\common-adb26f2d9deb540e.d: C:\Users\Student01pc\Desktop\work\multiplayer-fps\common\src\lib.rs C:\Users\Student01pc\Desktop\work\multiplayer-fps\common\src\defaults.rs C:\Users\Student01pc\Desktop\work\multiplayer-fps\common\src\ecs\mod.rs C:\Users\Student01pc\Desktop\work\multiplayer-fps\common\src\ecs\components.rs C:\Users\Student01pc\Desktop\work\multiplayer-fps\common\src\ecs\macros.rs C:\Users\Student01pc\Desktop\work\multiplayer-fps\common\src\ecs\system\mod.rs C:\Users\Student01pc\Desktop\work\multiplayer-fps\common\src\ecs\timer.rs C:\Users\Student01pc\Desktop\work\multiplayer-fps\common\src\map.rs C:\Users\Student01pc\Desktop\work\multiplayer-fps\common\src\gun.rs C:\Users\Student01pc\Desktop\work\multiplayer-fps\common\src\maze.rs
+
+C:\Users\Student01pc\Desktop\work\multiplayer-fps\common\src\lib.rs:
+C:\Users\Student01pc\Desktop\work\multiplayer-fps\common\src\defaults.rs:
+C:\Users\Student01pc\Desktop\work\multiplayer-fps\common\src\ecs\mod.rs:
+C:\Users\Student01pc\Desktop\work\multiplayer-fps\common\src\ecs\components.rs:
+C:\Users\Student01pc\Desktop\work\multiplayer-fps\common\src\ecs\macros.rs:
+C:\Users\Student01pc\Desktop\work\multiplayer-fps\common\src\ecs\system\mod.rs:
+C:\Users\Student01pc\Desktop\work\multiplayer-fps\common\src\ecs\timer.rs:
+C:\Users\Student01pc\Desktop\work\multiplayer-fps\common\src\map.rs:
+C:\Users\Student01pc\Desktop\work\multiplayer-fps\common\src\gun.rs:
+C:\Users\Student01pc\Desktop\work\multiplayer-fps\common\src\maze.rs:

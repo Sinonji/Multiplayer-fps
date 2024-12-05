@@ -1,0 +1,11 @@
+C:\Users\Student01pc\Desktop\work\multiplayer-fps\client\target\release\deps\libecolor-a1c673777d0ef5ea.rmeta: C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.20.0\src\lib.rs C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.20.0\src\color32.rs C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.20.0\src\hsva_gamma.rs C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.20.0\src\hsva.rs C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.20.0\src\rgba.rs
+
+C:\Users\Student01pc\Desktop\work\multiplayer-fps\client\target\release\deps\libecolor-a1c673777d0ef5ea.rlib: C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.20.0\src\lib.rs C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.20.0\src\color32.rs C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.20.0\src\hsva_gamma.rs C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.20.0\src\hsva.rs C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.20.0\src\rgba.rs
+
+C:\Users\Student01pc\Desktop\work\multiplayer-fps\client\target\release\deps\ecolor-a1c673777d0ef5ea.d: C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.20.0\src\lib.rs C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.20.0\src\color32.rs C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.20.0\src\hsva_gamma.rs C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.20.0\src\hsva.rs C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.20.0\src\rgba.rs
+
+C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.20.0\src\lib.rs:
+C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.20.0\src\color32.rs:
+C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.20.0\src\hsva_gamma.rs:
+C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.20.0\src\hsva.rs:
+C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.20.0\src\rgba.rs:

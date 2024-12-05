@@ -1,0 +1,10 @@
+C:\Users\Student01pc\Desktop\work\multiplayer-fps\client\target\release\deps\libnotan_core-3664cc3a85a32e49.rmeta: C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\notan_core-0.9.5\src\lib.rs C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\notan_core-0.9.5\src\events.rs C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\notan_core-0.9.5\src\keyboard.rs C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\notan_core-0.9.5\src\mouse.rs
+
+C:\Users\Student01pc\Desktop\work\multiplayer-fps\client\target\release\deps\libnotan_core-3664cc3a85a32e49.rlib: C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\notan_core-0.9.5\src\lib.rs C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\notan_core-0.9.5\src\events.rs C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\notan_core-0.9.5\src\keyboard.rs C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\notan_core-0.9.5\src\mouse.rs
+
+C:\Users\Student01pc\Desktop\work\multiplayer-fps\client\target\release\deps\notan_core-3664cc3a85a32e49.d: C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\notan_core-0.9.5\src\lib.rs C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\notan_core-0.9.5\src\events.rs C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\notan_core-0.9.5\src\keyboard.rs C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\notan_core-0.9.5\src\mouse.rs
+
+C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\notan_core-0.9.5\src\lib.rs:
+C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\notan_core-0.9.5\src\events.rs:
+C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\notan_core-0.9.5\src\keyboard.rs:
+C:\Users\Student01pc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\notan_core-0.9.5\src\mouse.rs:
